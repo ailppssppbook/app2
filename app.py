@@ -1,1 +1,3 @@
-print(5+5)
+import os
+os.system("clear")
+print("Hallo Ali")
